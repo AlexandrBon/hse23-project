@@ -1,5 +1,7 @@
 ## CBX2
 
+### Colab: https://colab.research.google.com/drive/1fXz7O70KMZ7vgUwGiOrnb36SJQ-DfWq3?usp=sharing
+
 ### Файл fasta: https://www.ncbi.nlm.nih.gov/protein/NP_005180.1?report=fasta
 
 ### `blastp` для 11 файлов `.faa`:
